@@ -1,8 +1,10 @@
 import sys
+# check this for more on sys module: https://realpython.com/ref/stdlib/sys/
 
 def greet(name):
     """Print a greeting."""
     return f"Hello, {name}"
+
 
 def main():
     """Entry point when the file is run as a script."""
@@ -12,6 +14,7 @@ def main():
 
     name = sys.argv[1]
     print(greet(name))
+
 
 # Runs only when executed directly, not on import
 if __name__ == "__main__":

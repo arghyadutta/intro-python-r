@@ -1,8 +1,10 @@
 import example_main
 
-def main() -> None:
+
+def main():
     # Call a function from the imported module
-    example_main.greet("Bob")
+    print(example_main.greet("Bob"))
+
 
 if __name__ == "__main__":
     main()
