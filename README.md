@@ -11,6 +11,7 @@ References:
 - Thareja R. 2017. Python Programming. Oxford University Press India. (Useful, easy to follow)
 - Ramalho L. 2022. Fluent Python: Clear, Concise, and Effective Programming, Second Edition. Shroff/O’Reilly. 1012 p. (Advanced, but very much worth it as a second book)
 - Real Python website: https://realpython.com/
+- More, specific references: https://arghyadutta.github.io/notebooks/python.html
 
 
 
