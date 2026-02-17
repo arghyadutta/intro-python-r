@@ -1,3 +1,2 @@
-Hello World!
-This file was created using the 'with' statement.
+Hello World!This file was created using the 'with' statement.
 This text was appended later.
