@@ -1,0 +1,4 @@
+name,age,score,passed,age_squared,department
+Alice,25,88.5,True,625,CS
+Bob,30,92.0,True,900,Math
+Charlie,35,79.5,False,1225,CS
