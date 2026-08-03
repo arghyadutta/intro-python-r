@@ -89,8 +89,8 @@ console.log("Hello, world!");
 
 |Name|Language|
 |---|---|
-|Pandoc |Haskell | 35k |
-|Jekyll |Ruby | 49k |
+|Pandoc |Haskell |
+|Jekyll |Ruby |
 
 
 ## Escaping Characters
