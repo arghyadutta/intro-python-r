@@ -1,10 +1,10 @@
 # Introduction to Python and R
 
-Code and notes for SEC-190, an introductory coding course that I'm teaching to BSc Physics (Hons.) students at SRM University-AP (Jan–Apr 2026). 
+Code and notes for SEC-190, an introductory coding course for BSc students at SRM University-AP.
 
 ## References:
 
-Beginner to advanced:
+Beginner:
 
 - Thareja R. 2017. Python Programming. Oxford University Press India. (Useful, easy to follow)
 - Allen Downney's Think Python: https://allendowney.github.io/ThinkPython/index.html (excellent!)
@@ -20,7 +20,7 @@ Specific topics:
 
 ## Disclaimer
 
-While writing and organizing these course material, I took help (adapted example codes) from:
+While writing and organizing these course material, I adapted some code examples from:
 - [Google's Tutorial on Python](https://developers.google.com/edu/python)
 - "Machine Learning using Python" by M Pradhan and U Dinesh Kumar, Wiley Publishers (2019)
-- Google Gemini and ChatGPT
+- GenAI (we will discuss in detail about using GenAI for coding -- both advantages and issues.)
