@@ -1,4 +1,4 @@
-# Introduction to Python and R
+# An Introduction to Python
 
 Code and notes for SEC-190, an introductory coding course for BSc students at SRM University-AP.
 
