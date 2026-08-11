@@ -1,6 +1,6 @@
 import sys
 # check this for more on sys module: https://realpython.com/ref/stdlib/sys/
-garbage
+
 def greet(name):
     """Print a greeting."""
     return f"Hello, {name}"
