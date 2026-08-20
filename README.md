@@ -7,11 +7,13 @@ Code and notes for SEC-190, an introductory coding course for BSc students at SR
 Beginner:
 
 - Thareja R. 2017. Python Programming. Oxford University Press India. (Useful, easy to follow)
-- Allen Downney's Think Python: https://allendowney.github.io/ThinkPython/index.html (excellent!)
+- [Think Python](https://allendowney.github.io/ThinkPython/index.html) by Downney A.
+- [MIT OCW  Introduction to CS and Programming using Python](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/) by Bell A.
 
 Advanced:
 
-- Ramalho L. 2022. Fluent Python: Clear, Concise, and Effective Programming, Second Edition. Shroff/O’Reilly. 1012 p. (Advanced, but very much worth it as a second book)
+- Ramalho L. 2022. Fluent Python: Clear, Concise, and Effective Programming, Second Edition. Shroff/O’Reilly. 1012 p. 
+    - Advanced, but very much worth it as a second book
 
 Specific topics:
 
