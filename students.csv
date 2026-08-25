@@ -1,4 +1,4 @@
-name,age,score,passed,old,age_squared,department
-Alice,25,88.5,True,False,625,CS
-Bob,30,92.0,True,True,900,Math
-Charlie,35,79.5,False,True,1225,CS
+name,age,score
+Alice,25,88.5
+Bob,30,92.0
+Charlie,35,79.5
